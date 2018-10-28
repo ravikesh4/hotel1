@@ -3,9 +3,9 @@
                    
                         ?>
                         <br>
-                        <br>
+                        <br><b>
 
-							<div align="center"><h2><b><u>Your Profile</u></b></h2></div>
+							<div align="center"></b><h2><b><u>Your Profile</u></b></h2></div>
 								
 									<div class="panel-body">
 										<div class="table-responsive">
