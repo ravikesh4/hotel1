@@ -3,7 +3,7 @@
 
 
 
-<!-- banner -->
+<!-- slider -->
 <div class="banner">           
     <img src="images/photos/banner.jpg"  class="img-responsive" alt="slide">
     <div class="welcome-message">
@@ -16,7 +16,7 @@
         </div>
     </div>
 </div>
-<!-- banner-->
+<!-- end of slider-->
 
 
 
@@ -77,7 +77,7 @@
     </div>
 </div>
 </div>
-<!-- services -->
+<!-- end services -->
 
 
 <?php include 'footer.php';?>
